@@ -1,0 +1,12 @@
+[
+  {
+    "client_pod_name": "airflow_tomchot_webserver_pod_name",
+    "client_container_name": "airflow_tomchot_webserver_container_name",
+    "client_name": "tomchot"
+  },
+  {
+    "client_pod_name": "airflow_3d_webserver_pod_name",
+    "client_container_name": "airflow_3d_webserver_container_name",
+    "client_name": "3d"
+  }
+]
