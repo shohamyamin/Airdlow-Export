@@ -1,12 +1,12 @@
 [
   {
     "client_pod_name": "",
-    "client_container_name": "fd6786284f9ae8c02d4f2d21c1065e8a3e176e2f0cc6705f254996a6825e3801",
-    "client_name": "tomchot1"
+    "client_container_name": "airflow_client1_webserver_container_name",
+    "client_name": "client1"
   },
   {
     "client_pod_name": "",
-    "client_container_name": "fd6786284f9ae8c02d4f2d21c1065e8a3e176e2f0cc6705f254996a6825e3801",
-    "client_name": "3d"
+    "client_container_name": "airflow_client2_webserver_container_name",
+    "client_name": "client2"
   }
 ]
